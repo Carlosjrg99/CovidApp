@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Covid App</string>
+
+    <string-array name="elementos">
+        <item>Mundo</item>
+        <item>Elemento2</item>
+        <item>Elemento3</item>
+        <item>Elemento4</item>
+    </string-array>
+</resources>
